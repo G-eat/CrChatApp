@@ -71,14 +71,14 @@ export default {
       buttonMessages : [
         {
           value: 1 ,
-          message : 'tung shka je ka bon a je mire qysh je ahahhaha i kuku per ty hahdshhasdk'
+          message : 'nuk ka perfundu'
         },
         {
           value: 2 ,
-          message : 'Tung'
+          message : 'eksperiment'
         },{
           value: 3 ,
-          message : 'Hi'
+          message : 'thjesht logjika jo teksti'
         }
       ],
       loading : false,
